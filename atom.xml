@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marcymind.github.io</id>
     <title>Marcymind</title>
-    <updated>2020-11-14T09:35:09.343Z</updated>
+    <updated>2020-11-14T10:04:15.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://marcymind.github.io"/>
     <link rel="self" href="https://marcymind.github.io/atom.xml"/>
@@ -16,7 +16,9 @@
         <link href="https://marcymind.github.io/post/galaxy-s10e/">
         </link>
         <updated>2020-05-11T17:52:48.000Z</updated>
-        <content type="html"><![CDATA[<p>主观，偏激，不理性。</p>
+        <content type="html"><![CDATA[<blockquote>
+<p>主观，偏激，不理性。</p>
+</blockquote>
 <p>上个月，在 iPhone SE2020 发布前，我购入了 S10e。S10e 在参数上的优势很多，但对我而言没什么特殊的原因，就只是因为刚好手机坏了，馋 S10e 的身子。三星 S10e 够小够轻算是台手机，仅此而已。</p>
 <p>因为众所周知的原因，似乎没有厂商再愿意做小尺寸手机了。在我看来，三星 S10e 是没有对手的手机。</p>
 <img src="https://marcymind.github.io/post-images/1605339486558.jpg" style="zoom: 50%;" />
@@ -33,8 +35,8 @@
 <img src="https://marcymind.github.io/post-images/1605339866874.jpg" alt="Lr&Coolapk" style="zoom:50%;" /><br>
 <img src="https://marcymind.github.io/post-images/1605339876099.jpg" alt="光遇的加载界面" style="zoom:50%;" /></p>
 <p>但Samsung Flow也并不是三星特有的功能，华为应该比它做得更好，小米 OV 其实也有类似与电脑互传文件的功能。Samsung Dex 和 TNT 相比，或许还是 TNT 会更好用，至少 TNT 的显示分辨率会高很多。</p>
-<p>Samsung S10e 的优点是 OneUI，但是对我而言，OneUI 也是痛点。一是，S10e 可以 root，代价便是这台手机上再也用不了 SamsungPay 和安全文件夹。不 root 的话，那可以用设备管理员吗？冰箱和 island 在 S10e 上启用设备管理员以后，也无法会使用 SamsungPay 和安全文件夹（暂时）。</p>
-<p>也就是说，没法用<strong>钛备份</strong>，也没法用<strong>存储重定向</strong>，虽然可以用 app ops 和冰箱，但是每次重启都要重新激活 Shizuku。</p>
+<p>Samsung S10e 的<strong>优点</strong>是<strong>OneUI</strong>，但是对我而言，OneUI 也是<strong>痛点</strong>。</p>
+<p>一是，S10e虽然可以root，可代价是，这台手机上再也运行不了<strong>SamsungPay</strong>和安全文件夹。假如开启root的话，那可以启用<strong>设备管理员</strong>吗？冰箱和island在S10e上启用设备管理员以后，也会暂时无法使用SamsungPay和安全文件夹。也就是说，没法用钛备份，也没法用存储重定向，虽然可以用 app ops 和冰箱，但是每次重启都要重新激活Shizuku。</p>
 <p>二是，不能完全自定义 UI，比如状态栏的电池，信号图标样式。图标有时逼死强迫症。你无法应用轻雨 pure / 原生的图标包。动画一言难尽。看惯了类原生和 iOS 风格的 UI，换成 OneUI 的不适感非常严重。</p>
 <img src="https://marcymind.github.io/post-images/1605339885514.jpg" alt="QQ看起来很奇怪" style="zoom:33%;" />
 <p>但如果你只是和我一样，想要台简单的手机，三星 S10e 倒也蛮合适的。我几乎没有提及它的优点，因为优点实在太多。S10e 和 One UI 在设计上的巧思，只有把它拿在手上时才知道。</p>
